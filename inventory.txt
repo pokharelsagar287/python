@@ -1,0 +1,4 @@
+cement,20
+bricks,150
+steel,50
+sand,100
